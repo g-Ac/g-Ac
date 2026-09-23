@@ -2,7 +2,7 @@
 
 **Analista de TI · Infraestrutura Microsoft 365, Automação e IA** — Goiânia, GO 🇧🇷
 
-Cuido da TI de um grupo com 8 empresas (Active Directory, Microsoft 365, FortiGate, GLPI) e automatizo o que chega repetido: mais de 1.600 chamados resolvidos viraram scripts, integrações e um sistema interno de gestão. Uso IA como ferramenta de desenvolvimento, com testes e travas de segurança. Cursando Engenharia de Computação na PUC Goiás.
+Cuido da TI de um grupo com 8 empresas e cerca de 100 usuários (Active Directory, Microsoft 365, FortiGate, GLPI) e automatizo o que chega repetido: mais de 1.600 chamados resolvidos viraram scripts, integrações e um sistema interno de gestão. Uso IA como ferramenta de desenvolvimento, com testes e travas de segurança. Cursando Ciência da Computação na PUC Goiás.
 
 Meu jeito de trabalhar: pegar um processo manual, desenhar a solução, entregar funcionando e deixar documentado para o próximo.
 
