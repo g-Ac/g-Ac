@@ -1,8 +1,8 @@
 # Olá, eu sou o Gabriel 👋
 
-**Infraestrutura Microsoft 365 · Automação · Desenvolvimento interno com IA** — Goiânia, GO 🇧🇷
+**Infraestrutura Microsoft 365 · Desenvolvimento de Sistemas · Automação com IA** — Goiânia, GO 🇧🇷
 
-Cuido da TI de um grupo com 8 empresas e cerca de 100 usuários (Active Directory, Microsoft 365, FortiGate, GLPI) e sou o principal desenvolvedor do sistema de gestão interno do grupo, que trouxe para dentro de casa atendimento, controladoria, tesouraria, RH e marketing. Atendo cerca de 50 chamados por mês e transformo o que se repete em script, integração ou módulo. Cursando Ciência da Computação na PUC Goiás.
+Cuido da TI de um grupo com 8 empresas e cerca de 100 usuários (Active Directory, Microsoft 365, FortiGate, GLPI) e sou o principal desenvolvedor do sistema de gestão do grupo, que trouxe para dentro de casa atendimento, controladoria, tesouraria, RH e uma esteira de marketing automatizada por IA (planejamento, campanhas, geração de imagem, publicação no Instagram e métricas). Atendo cerca de 50 chamados por mês e transformo o que se repete em script, integração ou módulo. Cursando Ciência da Computação na PUC Goiás.
 
 Meu jeito de trabalhar: pegar um processo manual, desenhar a solução, entregar funcionando e deixar documentado para o próximo.
 
@@ -27,10 +27,10 @@ O trabalho maior, o **Gestão 360** (React, Node, SQLite; 17 módulos, 77 rotas 
 `Active Directory` `Microsoft 365` `Entra ID` `FortiGate` `VPN` `GLPI` `Windows Server` `Linux` `Docker` `Tailscale` `Raspberry Pi`
 
 **Desenvolvimento**
-`Python` `JavaScript` `React` `Node` `PowerShell` `SQL Server` `SQLite` `APIs REST` `Git` `pytest` `Vitest` `Pester`
+`Python` `JavaScript` `TypeScript` `React` `Node` `PowerShell` `SQL Server` `SQLite` `APIs REST` `Git` `pytest` `Vitest` `Pester`
 
 **IA e automação**
-`Claude Code` `API da Anthropic` `Agentes de IA com aprovação humana` `Manychat` `Digisac` `Telegram Bot API`
+`Agentes de IA com aprovação humana` `Geração de imagem e vídeo por IA` `Graph API da Meta` `Claude Code` `API da Anthropic` `Telegram Bot API`
 
 ---
 
