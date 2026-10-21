@@ -13,7 +13,7 @@ Goiânia, Brasil · Ciência da Computação na PUC Goiás
 
 ---
 
-Cuido sozinho da TI de um grupo de 8 empresas e sou o principal desenvolvedor do sistema de gestão delas. Quando um processo se repete, eu transformo em código. Quando o código se repete, transformo em agente.
+TI de um grupo de 8 empresas e sou o principal desenvolvedor do sistema de gestão delas. Quando um processo se repete, eu transformo em código. Quando o código se repete, transformo em agente.
 
 O projeto de que mais me orgulho é uma **fábrica de agentes de IA** que pega tarefas no GitHub, escreve o código com teste e abre o PR. Outro agente revisa, e um humano aprova olhando a tela.
 
