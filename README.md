@@ -71,6 +71,7 @@ O código do Gestão 360 e da fábrica é privado da empresa. Mostro a arquitetu
 
 | Projeto | O que é | Stack |
 |---|---|---|
+| [**homelab**](https://github.com/g-Ac/homelab) | Laboratório de IA privada em hardware modesto (Raspberry Pi + GTX 1660): hardening medido, GPU em containers e benchmark pré-registrado de modelos locais. Histórico nas issues | Ollama · Docker · Lynis · gitleaks · Python |
 | [**glpi-ia-diagnostico**](https://github.com/g-Ac/glpi-ia-diagnostico) | Diagnóstico remoto de estações Windows, só leitura, que publica o relatório no chamado do GLPI | PowerShell · WinRM · Pester |
 | [**crypto_ai_bot**](https://github.com/g-Ac/crypto_ai_bot) | Bot que analisa mercado, aplica regras de risco e simula operações (paper trading). Roda 24/7 num Raspberry Pi, com ~690 testes | Python · pytest · systemd · Telegram |
 | [**agents-global**](https://github.com/g-Ac/agents-global) | Agentes e prompts especializados para desenvolvimento com Claude Code | Shell · Markdown |
